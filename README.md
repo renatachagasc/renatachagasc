@@ -4,8 +4,8 @@
 **Front-End Developer e UX/UI Designer, gosto de experimentar novos desafios e compartilhar conteúdo sobre tecnologias.**  
 
 * ❤️  Hoje trabalho como Front-End Developer e desenvolvo alguns projetos como UX/UI Designer.
-* 🚀  Tenho alguns projetos no meu potfólio do [behance](https://www.behance.net/renatachagasc).
-* 🤩  Estou criando conteúdo através do meu perfil do [instagram](https://www.instagram.com/renatachagasc/). 
+* 🚀  Tenho alguns projetos no meu portfólio do [behance](https://www.behance.net/renatachagasc).
+* 🤩  Estou criando com entusiasmo novos conteúdos através do meu perfil do [instagram](https://www.instagram.com/renatachagasc/). 
 
 
  <div>
@@ -19,7 +19,8 @@
   <img align="center" alt="renatachagasc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="renatachagasc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="renatachagasc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="renatachagasc-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="renatachagasc-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="renatachagasc-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
   
   ##
@@ -28,7 +29,5 @@
   <a href="https://www.linkedin.com/in/renatachagasc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rehcardosochagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/renatachagasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/renatachagasc/renatachagasc/blob/output/github-contribution-grid-snake.svg)
  
 </div>
