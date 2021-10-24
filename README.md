@@ -5,8 +5,6 @@
 
 * ❤️  Hoje trabalho como Front-End Developer e desenvolvo alguns projetos como UX/UI Designer.
 * 🚀  Tenho alguns projetos no meu portfólio do [behance](https://www.behance.net/renatachagasc).
-* 🤩  Estou criando com entusiasmo novos conteúdos através do meu perfil do [instagram](https://www.instagram.com/renatachagasc/). 
-
 
  <div>
   <a href="https://github.com/renatachagasc">
