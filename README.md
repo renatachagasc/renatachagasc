@@ -1,7 +1,7 @@
 ## Hey guys! Eu sou a Renata Chagas
 
 
-**Front-End Developer e UX/UI Designer, gosto de experimentar novos desafios e compartilhar conteúdo sobre tecnologias.**  
+**Front-End Developer, gosto de experimentar novos desafios e compartilhar conteúdo sobre tecnologias.**  
 
 * ❤️  Hoje trabalho como Front-End Developer e desenvolvo alguns projetos como UX/UI Designer.
 * 🚀  Tenho alguns projetos no meu portfólio do [behance](https://www.behance.net/renatachagasc).
